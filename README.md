@@ -1,2 +1,0 @@
-# 106DSproject
-DSproject
